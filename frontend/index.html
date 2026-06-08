@@ -1,0 +1,104 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily AI Insight Engine</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Daily AI Insight Engine</h1>
+      <p>AI 舆情分析日报系统 · 多来源爬取 · 按日期生成 · DeepSeek 多 Agent</p>
+    </div>
+    <div class="status" id="status">准备就绪</div>
+  </header>
+
+  <main>
+    <section class="controlPanel">
+      <div class="controlHeader">
+        <h2>数据爬取</h2>
+        <span>选择来源和日期范围</span>
+      </div>
+      <div id="sourceList" class="sourceList"></div>
+      <div class="formRow">
+        <label>
+          开始日期
+          <input id="crawlStartDate" type="date">
+        </label>
+        <label>
+          结束日期
+          <input id="crawlEndDate" type="date">
+        </label>
+        <label>
+          每源数量
+          <input id="maxItems" type="number" min="1" max="30" value="8">
+        </label>
+        <button id="crawlBtn">爬取新闻</button>
+      </div>
+    </section>
+
+    <section class="controlPanel">
+      <div class="controlHeader">
+        <h2>日报生成</h2>
+        <span>按新闻发布时间选择日报日期</span>
+      </div>
+      <div class="formRow">
+        <label>
+          日报日期
+          <input id="reportDate" type="date">
+        </label>
+        <button id="generateBtn">生成日报</button>
+        <button id="refreshBtn">刷新数据</button>
+      </div>
+    </section>
+
+    <section class="metrics">
+      <article class="metric">
+        <span>新闻数量</span>
+        <strong id="newsCount">0</strong>
+      </article>
+      <article class="metric">
+        <span>日报数量</span>
+        <strong id="reportCount">0</strong>
+      </article>
+      <article class="metric">
+        <span>当前日报</span>
+        <strong id="activeReport">-</strong>
+      </article>
+      <article class="metric">
+        <span>校验状态</span>
+        <strong id="validationState">-</strong>
+      </article>
+    </section>
+
+    <section class="layout">
+      <aside class="panel">
+        <div class="panelHeader">
+          <h2>新闻数据</h2>
+          <span>SQLite 存储</span>
+        </div>
+        <div id="newsList" class="list"></div>
+      </aside>
+
+      <section class="panel reportPanel">
+        <div class="panelHeader">
+          <h2>日报查看</h2>
+          <select id="reportSelect"></select>
+        </div>
+        <div class="tabs">
+          <button class="tab active" data-tab="summary">结构化摘要</button>
+          <button class="tab" data-tab="markdown">Markdown</button>
+          <button class="tab" data-tab="json">JSON</button>
+        </div>
+        <div id="summaryView" class="reportView"></div>
+        <pre id="markdownView" class="reportView hidden"></pre>
+        <pre id="jsonView" class="reportView hidden"></pre>
+      </section>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

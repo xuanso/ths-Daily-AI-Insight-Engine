@@ -1,0 +1,617 @@
+﻿[
+  {
+    "news_id": 123,
+    "title": "死脑筋的达里奥，这次把OpenAI干翻了 - 36 Kr",
+    "source": "Google News 中文前沿 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2dFgxOXkzSWc2TXl5S1VNT0FmX1MwTmxaQXduaXJCRjZSaC1Za0J4VWZsM0FyRGZHV3kweGN5cFM3OUliMURhYUJaalU2UQ?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "达里奥"
+      ],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "ecosystem_signal",
+    "topic_tags": [
+      "AI竞争",
+      "OpenAI"
+    ],
+    "key_claims": [
+      "达里奥干翻了OpenAI"
+    ],
+    "impact_score": 5,
+    "impact_level": "medium",
+    "sentiment": "neutral",
+    "affected_sectors": [
+      "人工智能"
+    ],
+    "risks": [],
+    "opportunities": [],
+    "structured_summary": "标题称达里奥干翻了OpenAI，但内容缺失，无法确认具体事件。",
+    "analysis_basis": "标题暗示竞争事件，但内容不足，影响评分中等，情感中性。"
+  },
+  {
+    "news_id": 122,
+    "title": "中国AI大模型调用量连续六周超美国，全球前五中占四席：MiniMax M3冲进前三，Claude两大模型跌出前五 - 每日经济新闻",
+    "source": "Google News 中文前沿 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZEI1aDFqT3hCRkpGV3NwenpqTUtwM3dIemtoZXlIcmpOYlBJanJ2Y1lsaDVPSzE1dVQ3US1Xd3cxbVl1emkwMXZqUWFGZkFrU2hjczAyZTNKdGtYdWJPejB5SDRMUQ?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "MiniMax",
+        "Anthropic"
+      ],
+      "people": [],
+      "products": [
+        "MiniMax M3",
+        "Claude"
+      ],
+      "models": [
+        "MiniMax M3",
+        "Claude"
+      ],
+      "technologies": [
+        "AI大模型"
+      ]
+    },
+    "event_type": "ecosystem_signal",
+    "topic_tags": [
+      "中国AI",
+      "大模型调用量",
+      "全球排名",
+      "MiniMax M3",
+      "Claude"
+    ],
+    "key_claims": [
+      "中国AI大模型调用量连续六周超美国",
+      "全球前五中占四席",
+      "MiniMax M3冲进前三",
+      "Claude两大模型跌出前五"
+    ],
+    "impact_score": 7,
+    "impact_level": "high",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "人工智能",
+      "云计算"
+    ],
+    "risks": [],
+    "opportunities": [
+      "中国AI大模型竞争力提升",
+      "MiniMax M3市场份额增长"
+    ],
+    "structured_summary": "中国AI大模型调用量连续六周超过美国，全球前五中占据四席，其中MiniMax M3冲进前三，而Claude两大模型跌出前五，显示中国AI大模型竞争力显著增强。",
+    "analysis_basis": "事件类型为生态系统信号，反映全球AI大模型竞争格局变化；影响评分7分，因涉及全球排名变化且连续六周趋势明显；情感正面，因中国AI表现突出；风险无，机会明确。"
+  },
+  {
+    "news_id": 121,
+    "title": "云知声发布U2大模型，可自主拆解并完成100+步复杂真实工作流 - DoNews",
+    "source": "Google News 中文前沿 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrSm5jaW1MNWRRcTI0TVBTTjRWdTRpdFhwODBLeG53WkJBU01JNlBDcWN5VUN4cHp1Q0JVSDNPWnU3MVIxVUt3ZHcxSU1YRk41cXFnYmhpNVVLbmhHaVE?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "云知声"
+      ],
+      "people": [],
+      "products": [
+        "U2大模型"
+      ],
+      "models": [
+        "U2大模型"
+      ],
+      "technologies": []
+    },
+    "event_type": "model_release",
+    "topic_tags": [
+      "大模型",
+      "工作流",
+      "自主拆解"
+    ],
+    "key_claims": [
+      "云知声发布U2大模型，可自主拆解并完成100+步复杂真实工作流"
+    ],
+    "impact_score": 7,
+    "impact_level": "high",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "人工智能",
+      "企业服务"
+    ],
+    "risks": [],
+    "opportunities": [
+      "提升复杂任务自动化能力",
+      "推动大模型在真实工作流中的应用"
+    ],
+    "structured_summary": "云知声发布U2大模型，该模型能够自主拆解并完成超过100步的复杂真实工作流，展示了强大的任务规划与执行能力。",
+    "analysis_basis": "事件类型为模型发布，影响评分高因为模型能力突出，可完成百步复杂工作流，对AI应用有显著推动。"
+  },
+  {
+    "news_id": 120,
+    "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞 - 财联社",
+    "source": "Google News 中文前沿 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [],
+      "products": [
+        "神话"
+      ],
+      "models": [
+        "神话"
+      ],
+      "technologies": []
+    },
+    "event_type": "product_update",
+    "topic_tags": [
+      "模型内测",
+      "安全漏洞",
+      "AI安全"
+    ],
+    "key_claims": [
+      "Anthropic的“神话”模型扩大全球内测范围",
+      "已发现上万高危漏洞"
+    ],
+    "impact_score": 7,
+    "impact_level": "high",
+    "sentiment": "neutral",
+    "affected_sectors": [
+      "AI安全",
+      "大模型开发"
+    ],
+    "risks": [
+      "模型存在大量高危漏洞，可能被恶意利用"
+    ],
+    "opportunities": [
+      "通过全球内测发现漏洞，提升模型安全性"
+    ],
+    "structured_summary": "Anthropic将其“神话”模型全球内测范围扩大，已发现上万高危漏洞，凸显AI安全挑战。",
+    "analysis_basis": "事件类型为产品更新，因涉及模型内测范围扩大；影响评分高因漏洞数量大且高危；情感中性，因既有风险也有机会。"
+  },
+  {
+    "news_id": 119,
+    "title": "聊天已死：OpenAI亲手终结ChatGPT - 新浪财经",
+    "source": "Google News 中文前沿 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2lXSVV0WjN2MlZfOUZwMGVpWlFYdXl3WTRNWXNZaEozNVJBOGJaNHl3SVdRVl9GWHVQRWxwZ012eTZHVnAtZlZsMExpejFQVVBtYmQwa2tra3E5V25IUVNBZmltRVNoU2h4cG93a2tKOXkzdFBKTjdDUmtHdHdieVpoYTZ6MF9jcHVVelc4alVnVVNYSl9DZzB3NkgwaHZobndkMDZJZw?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "product_update",
+    "topic_tags": [
+      "ChatGPT",
+      "OpenAI",
+      "产品更新"
+    ],
+    "key_claims": [
+      "OpenAI终结了ChatGPT的聊天功能"
+    ],
+    "impact_score": 8,
+    "impact_level": "high",
+    "sentiment": "negative",
+    "affected_sectors": [
+      "AI聊天机器人",
+      "对话式AI"
+    ],
+    "risks": [
+      "ChatGPT用户可能流失",
+      "OpenAI产品方向转变带来不确定性"
+    ],
+    "opportunities": [
+      "可能催生新的AI交互模式"
+    ],
+    "structured_summary": "OpenAI宣布终结ChatGPT的聊天功能，标志着一个时代的结束。此举可能重塑AI聊天机器人市场格局，对用户和行业产生深远影响。",
+    "analysis_basis": "标题明确表示OpenAI终结ChatGPT聊天功能，属于重大产品更新，影响广泛，故评分8分，影响等级高，情感倾向负面。"
+  },
+  {
+    "news_id": 118,
+    "title": "治理“AI污染”要防管结合（创新谈） - 人民网－四川频道",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KTzBtSFZXcVBGV2NicGhyOURrU1hUZUJqUHlOeGdPWktuMThJVFZCMGRyVVM1YmQ2R0p4MHR4NGs4Q0EzMk1ERVlGVjR6WkR3UVFjaGV6R09wQmNkYXdfNzJzWGFTbk0zeFE?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "policy_safety",
+    "topic_tags": [
+      "AI治理",
+      "AI污染",
+      "防管结合"
+    ],
+    "key_claims": [
+      "治理AI污染需要预防和管理相结合"
+    ],
+    "impact_score": 5,
+    "impact_level": "medium",
+    "sentiment": "neutral",
+    "affected_sectors": [
+      "AI监管",
+      "科技政策"
+    ],
+    "risks": [
+      "AI技术可能带来信息污染等风险"
+    ],
+    "opportunities": [
+      "通过防管结合可有效治理AI污染"
+    ],
+    "structured_summary": "人民网发文探讨治理AI污染需防管结合，强调预防与管理并重，以应对AI技术带来的信息污染问题。",
+    "analysis_basis": "事件类型为政策安全，主题聚焦AI治理，影响中等，情感中性，风险与机会均提及。"
+  },
+  {
+    "news_id": 117,
+    "title": "中国AI大模型周调用量连续6周超越美国：前4名均为国产模型 - 新浪财经",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1R6M3kxamx3eFh4SEw1d2dBMnV2OWFjaGFieWU1YnBUY2J2bGRkMHdoWndRcVdfUFgwNy1KX3pISXFHUUJEMV80WXpNWTdna2lzSXFVVEg5dG1XWll0bE5wLUcxdGpITlc0NHd3ZVBVX0owbHdYekJPZVFIR3BfS1V4Sk1kcHliRFdnVm1EYnNYOW5RdjdIOUw1czhXcXA1OFJxZ2tadw?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "ecosystem_signal",
+    "topic_tags": [
+      "中国AI",
+      "大模型",
+      "周调用量",
+      "超越美国"
+    ],
+    "key_claims": [
+      "中国AI大模型周调用量连续6周超越美国",
+      "前4名均为国产模型"
+    ],
+    "impact_score": 7,
+    "impact_level": "high",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "人工智能",
+      "科技"
+    ],
+    "risks": [],
+    "opportunities": [
+      "中国AI大模型市场领先地位增强",
+      "国产模型竞争力提升"
+    ],
+    "structured_summary": "中国AI大模型周调用量连续6周超越美国，前4名均为国产模型，显示中国在AI大模型应用领域的领先地位。",
+    "analysis_basis": "事件表明中国AI大模型生态的强劲增长，对行业有积极信号，影响广泛，故评分7，级别高，情绪正面。"
+  },
+  {
+    "news_id": 116,
+    "title": "算力突围、生态聚力，广东领跑人工智能赛道 - 21财经",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFNOZzktQVpXRGdHOTFwLWVIYlp1OF9sS2otU3lxdUtUODJvdDZfT2RUcThGdnBxMy16RWdfZ2xLS0RXLUpfNUpwenNhSHdEVGdJSnpjUVBRV3EzQ1pHZW5VQTdDNVJ6VzJOODMyT29QQ2cycDVDSUNxdUNPMWJKdEpwNWZuTzR1MlE4WDF2Yw?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "ecosystem_signal",
+    "topic_tags": [
+      "广东",
+      "算力",
+      "生态",
+      "人工智能赛道"
+    ],
+    "key_claims": [
+      "广东在人工智能赛道领跑"
+    ],
+    "impact_score": 5,
+    "impact_level": "medium",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "人工智能",
+      "科技产业"
+    ],
+    "risks": [],
+    "opportunities": [
+      "广东在算力和生态方面的优势可能带动区域AI产业发展"
+    ],
+    "structured_summary": "报道指出广东在人工智能领域通过算力突围和生态聚力，领跑全国赛道，体现了区域AI产业的积极发展态势。",
+    "analysis_basis": "新闻标题和内容明确提及广东领跑AI赛道，属于区域产业生态信号，影响中等，情绪正面。"
+  },
+  {
+    "news_id": 115,
+    "title": "【新华社】智能预报台风、海冰 “琅琊”海洋大模型2.0发布 - 中国科学院",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96RkFJQ3RfVmdlZkZMZUdVX0NIWGpVUzRxMFVMZDd1NC1leHQyNUhqWGh0a1BDYlVkX2s0akxUOEFqRHNOWVhic1dlbGx4c2tYa1REaEhldnpwdll6cWdrbk9B?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [
+        "琅琊海洋大模型2.0"
+      ],
+      "models": [
+        "琅琊海洋大模型2.0"
+      ],
+      "technologies": []
+    },
+    "event_type": "model_release",
+    "topic_tags": [
+      "海洋大模型",
+      "台风预报",
+      "海冰预报",
+      "中国科学院"
+    ],
+    "key_claims": [
+      "琅琊海洋大模型2.0发布，用于智能预报台风和海冰"
+    ],
+    "impact_score": 6,
+    "impact_level": "medium",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "气象预报",
+      "海洋科学",
+      "防灾减灾"
+    ],
+    "risks": [],
+    "opportunities": [
+      "提升台风和海冰预报的准确性",
+      "推动AI在海洋领域的应用"
+    ],
+    "structured_summary": "中国科学院发布琅琊海洋大模型2.0，用于智能预报台风和海冰，提升预报能力。",
+    "analysis_basis": "事件为模型发布，属于model_release；内容正面，影响中等，涉及气象和海洋领域。"
+  },
+  {
+    "news_id": 114,
+    "title": "广东按下AI高水平应用“快进键” - sz.gov.cn",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzbjUta19TM2xEWFl2ZE5CVlYyOWQ4dUxubXp4dUdqbWRmZFNYLS1reGMyU3hPclUzekl6aG5TVm0zUTZVRnJHRmNaZmxDSHJMZGEtaWxyQVJwb1pZX3A5MDJtM0FQVlRsdVhvU1FxcVFGUVY2WTFR?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "policy_safety",
+    "topic_tags": [
+      "AI应用",
+      "政策推动",
+      "广东"
+    ],
+    "key_claims": [
+      "广东按下AI高水平应用快进键"
+    ],
+    "impact_score": 5,
+    "impact_level": "medium",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "政府",
+      "科技"
+    ],
+    "risks": [],
+    "opportunities": [
+      "AI应用加速落地"
+    ],
+    "structured_summary": "广东省政府推动AI高水平应用，发布相关政策加速AI在各行业的落地，体现政府对AI发展的支持。",
+    "analysis_basis": "事件类型为政策安全，因内容涉及政府推动AI应用；影响中等，因政策利好但缺乏具体细节；情感正面，因政策支持AI发展。"
+  },
+  {
+    "news_id": 113,
+    "title": "从技术到应用：人工智能赋能千行百业 - 新华网浙江",
+    "source": "Google News 中文 AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmlNSTIwOWFvN2ZZR1hRaGx4dVVieWdPcnpVV1U4YkVRal9ONmozM0VsNVBoT2V1OXlvQ3YxVFd6OVRscUc3MTRNeDdCUDRzNS1MRWlLVG5nRnhQRnZ0TUhqT1djOWFOU0tDcTYwN1BFNnFvTVpNNUYxRG5WZ0dDX2RB?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": [
+        "人工智能"
+      ]
+    },
+    "event_type": "application_case",
+    "topic_tags": [
+      "AI赋能",
+      "行业应用"
+    ],
+    "key_claims": [
+      "人工智能正在赋能千行百业"
+    ],
+    "impact_score": 5,
+    "impact_level": "medium",
+    "sentiment": "positive",
+    "affected_sectors": [],
+    "risks": [],
+    "opportunities": [
+      "AI技术在各行业的广泛应用带来发展机遇"
+    ],
+    "structured_summary": "新华网报道人工智能从技术走向应用，正在赋能千行百业，推动各行业智能化转型。",
+    "analysis_basis": "新闻标题和内容明确提及人工智能赋能千行百业，属于AI应用案例，但缺乏具体细节，因此影响评分中等，情感积极。"
+  },
+  {
+    "news_id": 112,
+    "title": "Apple's Gemini Siri: What It Means for AAPL, GOOGL - Gotrade",
+    "source": "Google News EN Frontier AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFpHaGNfakhJMDVqc1RIbTFBc1dhSGpIWjYyb3NEODNqQW1zUUxicEF1c3hlZExMYUx0UVcyV0xBT2Zyb3h2Wkh5bWQya3ZPdzZvdmZlYlo5X1ZTd0dBSXRqWktZNFNlYWVYcFgxSjlJcnVoVkZaQ3VhQW5nbGphcEVLVQ?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [],
+      "products": [
+        "Siri",
+        "Gemini"
+      ],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "product_update",
+    "topic_tags": [
+      "Apple",
+      "Google",
+      "Siri",
+      "Gemini",
+      "AI integration"
+    ],
+    "key_claims": [
+      "Apple integrates Gemini into Siri"
+    ],
+    "impact_score": 6,
+    "impact_level": "medium",
+    "sentiment": "neutral",
+    "affected_sectors": [
+      "Technology",
+      "Consumer Electronics"
+    ],
+    "risks": [
+      "Potential dependency on Google's AI technology"
+    ],
+    "opportunities": [
+      "Enhanced Siri capabilities",
+      "Strengthened Apple-Google partnership"
+    ],
+    "structured_summary": "Apple计划将Google的Gemini AI集成到Siri中，提升语音助手能力，对两家公司股价有潜在影响。",
+    "analysis_basis": "事件类型为产品更新，涉及两大科技巨头合作，影响中等，情感中性，风险在于技术依赖，机会在于功能增强。"
+  },
+  {
+    "news_id": 111,
+    "title": "AI Companies Are Rapidly Expanding Into Each Other's Markets - Business Insider",
+    "source": "Google News EN Frontier AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmd5bVJvejdpeGlGZHRyVmZyd0JwSlU4bXNaaFhOczRfdEFCUWU2bkEzRFY5YlVHbUxfR29UWUdPajZORnVZd0VMeUZNYmxvQUJ6ZEo3ZUs4RWd5U0w5MVU5MjMxUFRSWkVxYlVVbEVtTGlNOXhYUEJOeWg0bmRtcFk4blIyOThPd2dMWHlzRnVJVFB6NTlESmZhcmxPSXFwYzBNZWRkdnMzeW1J?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "ecosystem_signal",
+    "topic_tags": [
+      "market expansion",
+      "competition"
+    ],
+    "key_claims": [
+      "AI companies are rapidly expanding into each other's markets"
+    ],
+    "impact_score": 6,
+    "impact_level": "medium",
+    "sentiment": "neutral",
+    "affected_sectors": [
+      "AI industry"
+    ],
+    "risks": [
+      "increased competition",
+      "market saturation"
+    ],
+    "opportunities": [
+      "innovation through competition",
+      "market growth"
+    ],
+    "structured_summary": "报道指出AI公司正迅速进入彼此的市场，加剧行业竞争。",
+    "analysis_basis": "事件类型为生态系统信号，因内容涉及市场扩张动态；影响中等，因竞争加剧可能带来风险与机遇；情感中性，未明确褒贬。"
+  },
+  {
+    "news_id": 110,
+    "title": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit - Pulse 2.0",
+    "source": "Google News EN Frontier AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEFPZVRUdmpoWDlFYVkydDRwYXZMQ1ZySkF0RWNTNms0SzZJbUNfcTU5d1hYZkozQVpmNkg4bTRTRDl4REZkd0ZIeFdnTTBQUUY5QngwOVdZb2YwN0xiWkt5dE9GRDNENTFpU3VLNE1VR3JMaWFlY0tRUjUyMUdOYmZUa1Jqb0gtZ3MxV1ZFSGNIRkwtT1NDVlp3eE4zTnk5dVpYOHNn0gGrAUFVX3lxTFBoX1czcjdiUGlvWTZrSXEyVE9HMkYxNmthQnp1dzZkQi1yX0k1ZVVWSHpMQmlsNjFRMk9XRmdaSHFHbWhTTTZGT1dFaHN5RHJXQ1I3WFRBejlRTmw4VzFqenB6T3VOMjVfM015b0xGaWE4UGl4NFJRQ3ZER04zXzNTVGJMZHlkNm8tT0FESmdtTHRuclAxOXZwV2N6aVFzZjBHMDdCN29qN0J4Zw?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": []
+    },
+    "event_type": "policy_safety",
+    "topic_tags": [
+      "AI safety",
+      "youth",
+      "G7",
+      "international cooperation"
+    ],
+    "key_claims": [
+      "OpenAI calls for an International Youth AI Safety Institute ahead of the G7 Leaders' Summit."
+    ],
+    "impact_score": 6,
+    "impact_level": "medium",
+    "sentiment": "positive",
+    "affected_sectors": [
+      "AI governance",
+      "education",
+      "public policy"
+    ],
+    "risks": [],
+    "opportunities": [
+      "Potential for global youth engagement in AI safety",
+      "Increased international collaboration on AI governance"
+    ],
+    "structured_summary": "OpenAI呼吁在G7峰会前成立国际青年AI安全研究所，旨在促进全球青年参与AI安全治理，加强国际合作。",
+    "analysis_basis": "事件类型为政策安全倡议，影响中等，因涉及国际治理但具体细节有限；情感正面，因推动合作与青年参与；风险未提及，机会在于提升AI安全全球协作。"
+  },
+  {
+    "news_id": 109,
+    "title": "Lawmakers pump brakes on military AI — sort of - Responsible Statecraft",
+    "source": "Google News EN Frontier AI 24h",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HOWszc0lrdElGTjFnemNLYU9TLXhHeVZzVFRUYnlWbk95MUVTdWlBbmtINzY0Z2VGS21TTUt1ejhmLXR5YVJPakQwM3pWWGtuWERVTjlvZ2RXOUV0bXdDQnVnaU1sQQ?oc=5",
+    "published_at": "2026-06-08",
+    "entities": {
+      "companies": [],
+      "people": [],
+      "products": [],
+      "models": [],
+      "technologies": [
+        "military AI"
+      ]
+    },
+    "event_type": "policy_safety",
+    "topic_tags": [
+      "military AI",
+      "regulation",
+      "policy"
+    ],
+    "key_claims": [
+      "Lawmakers are slowing down military AI development."
+    ],
+    "impact_score": 6,
+    "impact_level": "medium",
+    "sentiment": "cautious",
+    "affected_sectors": [
+      "defense",
+      "artificial intelligence"
+    ],
+    "risks": [
+      "Potential slowdown in military AI advancement",
+      "Uncertainty in defense AI policy"
+    ],
+    "opportunities": [
+      "Opportunity for more careful ethical oversight",
+      "Potential for safer AI deployment"
+    ],
+    "structured_summary": "美国立法者正在对军事AI的发展踩刹车，但并非完全停止。这反映了对军事AI潜在风险的谨慎态度，可能影响国防AI领域的进展。",
+    "analysis_basis": "新闻标题和内容明确提及立法者减缓军事AI，属于政策安全事件。影响中等，因为政策变化可能影响行业但未具体说明程度。情感谨慎，因涉及限制但非禁止。"
+  }
+]
